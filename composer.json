@@ -1,5 +1,5 @@
 {
-    "name": "jc-it/yii2-blameable-behavior",
+    "name": "jc-it/yii2-timestamp-behavior",
     "description": "Timestamp behavior for Yii2 that includes deleted at.",
     "type": "library",
     "require": {
